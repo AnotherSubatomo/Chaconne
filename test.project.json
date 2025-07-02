@@ -1,0 +1,16 @@
+{
+  "name": "Chaconne",
+  "tree": {
+    "$className": "DataModel",
+    
+    "ReplicatedStorage": {
+      "Chaconne": { "$path": "chaconne.luau" }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Chaconne/demo": { "$path": "demo.client.luau" }
+      }
+    }
+  }
+}

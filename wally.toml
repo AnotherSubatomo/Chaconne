@@ -1,0 +1,15 @@
+[package]
+name = "anothersubatomo/chaconne"
+version = "0.1.0"
+description = "A simple, intuitive, and strictly-typed reactive state manager."
+license = "Unlicense"
+authors = ["AnotherSubatomo"]
+
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/anothersubatomo/chaconne"
+realm = "shared"
+
+exclude = ["**"]
+include = ["chaconne.luau", "wally.lock", "wally.toml"]
+
+[dependencies]
