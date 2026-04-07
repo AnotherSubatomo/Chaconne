@@ -1,6 +1,7 @@
 
---!native
 --!strict
+--!optimize 2
+--!native
 
 local Chaconne = require(game.ReplicatedStorage.Chaconne)
 local cell = Chaconne.cell

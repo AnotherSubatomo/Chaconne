@@ -6,6 +6,10 @@ A simple, intuitive, and strictly-typed reactive state manager.
 
 *Heavily inspired by [fewkz/cells](github.com/fewkz/cells) and [dphfox/fusion](github.com/dphfox/fusion).*
 
+
+>[!IMPORTANT]
+> This library has been deprecated in favor of [`AnotherSubatomo/quark`](https://github.com/AnotherSubatomo/quark).
+
 [![Last Commit](https://img.shields.io/github/last-commit/AnotherSubatomo/Chaconne/main)](https://github.com/AnotherSubatomo/Chaconne/commits/main/) [![Release Version](https://img.shields.io/github/v/release/AnotherSubatomo/Chaconne?color=green)](https://github.com/AnotherSubatomo/Chaconne/releases/latest) [![License: Unlicense](https://img.shields.io/badge/License-Unlicense-yellow.svg?)](https://opensource.org/licenses/Unlicense) [![Wally Package](https://img.shields.io/badge/Wally-ad4646?)](https://wally.run/package/anothersubatomo/chaconne)
 
 ---
